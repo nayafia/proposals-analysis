@@ -1,6 +1,6 @@
-# Community Grant Programs Analysis
+# Decentralized funding? An analysis of three programs
 
-Data that goes with [post](link), an analysis of community grant programs for open source projects.
+Data that goes with [this post](https://nadiaeghbal.com/grant-programs), an analysis of community grant programs for three open source projects (Zcash, Monero, Dash).
 
 Each folder has a .csv file and readme with notes on methodology and a key.
 
@@ -23,7 +23,7 @@ Feedback or questions can be directed to [@nayafia](https://twitter.com/nayafia)
 
 # Contributing
 
-Data collected July 2018 (see individual readmes for more info). I'll update when ZCash's Q018Q2 awards are announced, but otherwise don't plan to update or change this data set. If you'd like to add more data however, or if you spot any errors, feel free to open a [pull request](link).
+Data collected July 2018 (see individual readmes for more info). I'll update when Zcash's Q018Q2 awards are announced, but otherwise don't plan to update or change this data set. If you'd like to add more data however, or if you spot any errors, feel free to open a pull request.
 
 # License and attribution
 
