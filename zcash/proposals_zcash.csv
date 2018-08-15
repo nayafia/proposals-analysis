@@ -1,0 +1,70 @@
+title,author,cohort,status,date,type,type2,replies_count,USD_proposed
+Abolish the BitLicense for Cryptos,theochino,2017Q4,not_funded,08/18/2017,community,NA,4,40000
+Avrorum - Promoting the use of Zcash in the business sector,Civilian47,2017Q4,not_funded,08/21/2017,application,NA,5,50000
+Support for Community Web resources,mineZcash,2017Q4,withdrawn,08/29/2017,community,NA,8,2400
+ORC (Onion Routed Cloud),bookchin,2017Q4,withdrawn,8/31/2017,application,NA,10,80000
+ZCash Debit Card,CryptoFarm7,2017Q4,not_funded,9/10/2017,application,NA,12,80000
+Zcash Education Outreach,techoluwoye,2017Q4,funded,9/10/2017,marketing,NA,25,5000
+Zcash on Tor - Project Grant Proposal,xyZcash,2017Q4,funded,9/11/2017,application,NA,15,21000
+Crypto Contacts,asbjornenge,2017Q4,withdrawn,09/12/2017,application,NA,7,5000
+ZCash iOS SPV Wallet,0dayZh,2017Q4,not_submitted,09/12/2017,application,NA,4,45000
+Guarda Zcash light wallet,AndrewGuarda,2017Q4,funded,09/13/2017,application,NA,51,60000
+Zcash Latinoamerica - Education and Outreach,Rosmar,2017Q4,not_funded,09/15/2017,marketing,NA,8,33000
+ZEC <-> XLM Service,zallarak,2017Q4,not_funded,09/15/2017,feature,NA,8,13000
+Improved block explorer infrastructure,radix42,2017Q4,funded,09/15/2017,application,NA,24,8000
+Improved proving key download infrastructure,radix42,2017Q4,withdrawn,09/15/2017,core,NA,7,NA
+Improved multi-platform support,radix42,2017Q4,funded,09/15/2017,core,NA,7,8000
+GUI Wallet improvements,radix42,2017Q4,withdrawn,09/15/2017,core,NA,11,NA
+Enhancements to the ZCash Desktop GUI Wallet,vaklinov,2017Q4,funded,09/02/2017,core,design,24,NA
+"Video production, animation and marketing",publicimage,2017Q4,funded,09/15/2017,marketing,NA,21,9500
+Empirical analysis of the Zcash blockchain,feddan35,2017Q4,funded,09/15/2017,research,NA,20,24000
+The fungibility of cryptocurrencies: lessons from the history of money,jpkoning,2017Q4,not_funded,09/15/2017,research,NA,5,7500
+ZK-GPS location tracking for geo-accountability,tian0,2017Q4,not_funded,09/15/2017,application,NA,7,NA
+Zcash plug-and-play full node software,john-light,2017Q4,not_funded,09/15/2017,application,NA,3,15000
+Enable genZ with zCash,paulransfield,2017Q4,not_funded,09/15/2017,marketing,NA,5,90000
+Web-based XCAT tool for easy ZEC↔︎BTC atomic trading,jasondavies,2017Q4,funded,09/15/2017,application,NA,28,15000
+Make Media,AdvacyPrivocate,2017Q4,not_funded,09/15/2017,marketing,NA,3,7200
+Privacy implications of the interplay between shielded and non-shielded addresses,hkalodner,2017Q4,not_submitted,09/15/2017,research,NA,9,12000
+Alternative Fully-Verifying Node in Rust,jasondavies,2017Q4,funded,09/15/2017,core,NA,43,15000
+Next Gen Creators,nkkee,2017Q4,not_funded,09/15/2017,marketing,NA,2,NA
+Zcash 'Sapling' standalone hardware wallet,flathashedtree,2018Q2,NA,01/29/2018,application,NA,NA,27000
+New wallet designs for existing/ forthcoming builds,lugeb,2018Q2,not_funded,02/08/2018,design,NA,NA,NA
+PBS Endowment Fund,autotunafish,2018Q2,not_funded,03/24/2018,marketing,NA,NA,NA
+PayWithZ.cash,ezvaughn,2018Q2,NA,04/21/2018,community,NA,NA,3000
+Help Blockchain Disrupt Public Education,nzeimer,2018Q2,not_funded,04/26/2018,application,NA,NA,NA
+Create a Decentralized Identifier Method & wallet for Zcash,ChristopherA,2018Q2,not_funded,05/02/2018,application,NA,NA,NA
+localz.cash,bijarkhan,2018Q2,not_funded,5/3/2018,community,NA,NA,15000
+Research for best practice on PoW implementation and support,hosseamin,2018Q2,not_funded,05/04/2018,research,NA,NA,NA
+Demystify Cryptocurrencies and Privacy Coins Among Arabs/Refugees,moeghashim,2018Q2,not_funded,05/08/2018,marketing,NA,NA,NA
+ProgPoW: A programmatic (dynamic) Proof-of-Work algorithm tuned for commodity hardware,ifdefelse,2018Q2,NA,5/9/2018,core,NA,NA,50000
+P&Q Bulletproofs,ChristopherA,2018Q2,not_funded,05/10/2018,research,NA,NA,NA
+Contribute to Monero's Forum Funding System (FFS),amiller,2018Q2,not_funded,05/10/2018,community,NA,NA,10000
+Equihash and Hardware Ecosystem,earlmai,2018Q2,not_funded,5/11/2018,application,NA,NA,180000
+SPXZ mobile wallet for sapling,omershlo,2018Q2,not_funded,05/03/2018,application,NA,NA,NA
+ASIC Resistant PoW,Sc00bz,2018Q2,not_funded,05/08/2018,research,NA,NA,3000
+A simplistic and user friendly payment system on top of Zcash for Emerging Markets,eddywm,2018Q2,not_funded,05/17/2018,application,NA,NA,NA
+Support Overwinter and Sapling in Riemann,prestwich,2018Q2,NA,05/11/2018,application,NA,NA,20000
+nifty messenger,grubino,2018Q2,not_funded,05/11/2018,application,NA,NA,NA
+Fork electrum to zcash and enable shielded transactions,johanssonlc,2018Q2,NA,05/14/2028,application,NA,NA,10000
+A Zcash-based voting system,evainfeld,2018Q2,NA,05/16/2018,application,NA,NA,61000
+Missing and Murdered Indigenous Women: OSINT Analysis and Mapping Project,SMPOTTRATZ,2018Q2,NA,05/16/2018,marketing,NA,NA,3000
+Design and/or help review new PoW scheme,solardiz,2018Q2,NA,05/17/2018,research,NA,NA,54000
+Secure and Decentralized News Portal based on the ZCash Blockchain,thoschm,2018Q2,NA,05/17/2018,application,NA,NA,42000
+A statistical analysis of privacy in (private) cryptocurrencies,bekahoxoo,2018Q2,withdrawn,05/17/2018,research,NA,NA,NA
+Add Zcash Support to the Anypay Merchant Payment System So That Customers Can Instantly Use Shielded and Transparent Zcash In Hundreds of Retail Stores With Zero Extra Effort to Businesses,TheDerrickJ,2018Q2,NA,05/17/2018,application,NA,NA,20000
+Implementation of Blind Off-Chain Lightweight Transactions (BOLT),jakinyele,2018Q2,NA,05/17/2018,application,NA,NA,30000
+Zcash Education Outreach Part 2,techoluwoye,2018Q2,NA,5/17/2018,marketing,NA,NA,13500
+Scholarship for Research on Zero-Knowledge Proofs,bbuenz,2018Q2,NA,5/17/2018,research,NA,NA,80000
+Payment offloading using server-less computing,byzan2,2018Q2,NA,5/18/2018,research,NA,NA,NA
+Integrating MPC and ZK-compiler technology,bhemen,2018Q2,NA,5/18/2018,research,NA,NA,86000
+Advanced Zcash Blockchain Analysis,feddan35,2018Q2,NA,5/18/2018,security,NA,NA,18000
+Zcash App for Domestic Violence Victims,pkafei,2018Q2,not_funded,5/18/2018,application,NA,NA,20000
+An alternative approach to analyzing anonymity in cryptocurrencies,bfoteini,2018Q2,NA,5/18/2018,research,NA,NA,25000
+Diversification across pools: Optimal mining strategies under PoW,mysteryfigure,2018Q2,NA,5/18/2018,research,NA,NA,20000
+Update of the Equihash Algorithm,alexcryptan,2018Q2,NA,5/18/2018,research,NA,NA,25500
+Open source zcash blockchain analysis platform (development and hosting),rmhere,2018Q2,NA,5/18/2018,application,NA,NA,22000
+Poster Art Series promoting Zcash and Financial Privacy,hloo,2018Q2,NA,5/18/2018,marketing,NA,NA,2500
+Documentary Film,natkramermedia,2018Q2,NA,5/18/2018,marketing,NA,NA,29000
+Education: Zcash workshops and hackathons with CS students in northeast of Brazil,gcsfred2,2018Q2,withdrawn,5/18/2018,marketing,NA,NA,NA
+Guarda Zcash Wallet iOS,eugeneives,2018Q2,NA,5/18/2018,application,NA,NA,30000
+Secret Sharing Mobile Password Manager,PartlyLukerativ,2018Q2,not_funded,5/18/2018,application,NA,NA,NA

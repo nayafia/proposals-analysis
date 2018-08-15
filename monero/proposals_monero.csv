@@ -1,0 +1,218 @@
+title,author,status,date,type,type2,replies_count,XMR_raised,XMR_proposed,USD_rate,USD_raised,USD_proposed,contributor_count,milestones_completed,milestones_total
+Names for the various amounts of Monero.,ItsMe,ideas,10/09/2014,documentation,NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+Latest blockchains on torrents.,PlanK,ideas,10/09/2014,feature,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+The monero plural,dnaleor,ideas,10/10/2014,documentation,NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+Monero Wallet Locking Mechanism,Private,ideas,10/12/2014,feature,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+Monero Wiki,hillbilly,ideas,10/15/2014,documentation,NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+Fork of OpenBazaar for XMR,binaryFate,ideas,11/10/2014,application,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+Client-side encryption web wallet (like blockchain.info),binaryFate,ideas,11/10/2014,application,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+Dedicated Block Explorer,goin2mars,ideas,12/01/2014,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Monero Asset Exchange in MyMonero.Com,GEO_Jan,ideas,12/08/2014,application,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+Subaccount,davidlatapie,ideas,2/25/2015,feature,NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+Translating simplewallet,davidlatapie,ideas,02/25/2015,translation,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+xmr.to in the wallet,davidlatapie,ideas,2/25/2015,feature,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+"Creating a decentralized ""pool"" for XMR private keys/public keys",Tobo,ideas,03/02/2015,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+I wish I could program - have all kinds of ideas,buzzkillington,ideas,03/08/2015,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+monerorichlist.com,davidlatapie,ideas,3/11/2015,community,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+OpenAlias + Exchange Integration,onemorexmr,ideas,3/12/2015,application,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Monero Tips,davidlatapie,ideas,03/15/2015,community,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Extra features for GUI wallet,davidlatapie,ideas,3/21/2015,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Bittorrent download for wallet and blockchain,davidlatapie,ideas,3/21/2015,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Rating our wallets with OBPP,davidlatapie,ideas,3/21/2015,community,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Pushing Monero the Younger Crowd(Teens,Young Adults)",Synthetics,ideas,4/14/2015,marketing,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+webui for openalias + address/viewkey (incoming) transaction lookup (finished but looking ugly; url inside),onemorexmr,ideas,4/17/2015,application,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Monero at www.bitnodes.net,palexander,ideas,5/22/2015,application,NA,11,NA,NA,NA,NA,NA,NA,NA,NA
+XMR Average Price Paid Tracker - Wallet Developers,palexander,ideas,5/29/2015,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Translating getmonero.org,Myagui,ideas,6/19/2015,translation,NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+Monero app game?,sylviaplathlikestobake,ideas,7/2/2015,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Create Bitcoin Blockchain Analytic site which directs to Monero,palexander,ideas,7/9/2015,community,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+Quarterly Q and A session/roundtable on Mumble,palexander,ideas,7/11/2015,community,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+Button for last active topics,Bassica,ideas,7/12/2015,feature,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+Fund a Developer: moneromoo will work part-time on Monero for 260 hours over approx. 6 months,fluffypony,completed,07/13/2015,core,NA,57,7812.92,7800,0.5,3906.46,3900,45,6,6
+Task - Portuguese translations,Myagui,open_tasks,07/15/2015,translation,NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+Russian Translation,andretti,ideas,7/16/2015,translation,NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+Task - Russian translations,tankist0,open_tasks,07/17/2015,translation,NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+Japanese translation,Bosco,ideas,7/18/2015,translation,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+Expand Moneropedia entries on the Monero website,fluffypony,work_in_progress,07/19/2015,documentation,NA,17,105,105,0.59,61.95,61.95,4,0,1
+Funding request for Discourse forum software?,Sebsebzen,ideas,7/23/2015,community,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+Can we crowdfund the user and developer guides?,sylviaplathlikestobake,ideas,7/24/2015,documentation,NA,9,NA,NA,NA,NA,NA,NA,NA,NA
+"Integrate ""Monero Accepted Here"" Image with Monero Public Address",palexander,ideas,8/13/2015,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Poker Night,miragecash,ideas,9/1/2015,community,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+"Using ""time-neighbors"" in mixin selection in order to solve temporal associations",EhVedadoOAnonimato,ideas,9/10/2015,research,NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+Documentation and cleanup of source code,tewinget,completed,09/11/2015,documentation,core,37,3600,3600,0.46,1656,1656,23,4,4
+Forum Funding System and Open Alias,palexander,ideas,9/12/2015,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Port Agar.io to use Monero,Gingeropolous,ideas,9/19/2015,feature,NA,10,NA,NA,NA,NA,NA,NA,NA,NA
+Improving the Android Monero Wallet + ReactNative wallets for iOS and Android,monerowallet,open_tasks,09/21/2015,application,NA,9,NA,2000,0.5,NA,1000,NA,NA,NA
+Idea for a completely new sport gambling website that accepts monero and bitcoin,harpua,ideas,9/21/2015,application,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+Potential capabilities of Monero,harpua,ideas,9/23/2015,application,NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+Privately donate to privacy-oriented services,Gingeropolous,ideas,9/28/2015,community,NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+Task list / To do list,opennux,ideas,10/2/2015,community,NA,12,NA,NA,NA,NA,NA,NA,NA,NA
+Open source AMD miner by Wolf0,Gingeropolous,work_in_progress,10/04/2015,feature,NA,54,7750,7750,0.4,3100,3100,20,6,7
+Lightweight client architecture / software,Gingeropolous,ideas,10/7/2015,feature,NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+Make it rain on the devs when 0.9 is released!,Gingeropolous,ideas,10/20/2015,community,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+A continuation for all purpose programming of what needs to get done in monero,moneromooo,completed,10/31/2015,core,NA,48,18000,18000,0.38,6840,6840,21,10,10
+XMR Pool Infrastructure Overhaul,Wolf0,work_in_progress,11/01/2015,core,NA,29,754,750,0.36,271.44,270,7,0,2
+Monero POS System - Like Square,kodaxx,ideas,12/5/2015,application,NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+Free OpenAlias Registration Platform,kodaxx,ideas,12/5/2015,application,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+Downloadable html wallet,Aiwe,ideas,12/12/2015,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+The official Qt GUI Project,othe,completed,02/02/2016,feature,NA,22,14526.78,14000,0.49,7118.1222,6860,30,0,0
+Monero site facelift,Aiwe,ideas,2/6/2016,design,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+Create unsigned txn on online computer. Sign it on offline computer. Broadcast the signed txn on online computer. Bulk of the work already done by moneromooo. Anyone wants to finish it and get it into simplewallet?,moneroguy463728,ideas,2/6/2016,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+"MONERODO OS Development, maintenance, and variants",Gingeropolous,ideas,2/6/2016,application,NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+Monero Bounty Bonds,dnaleor,ideas,2/11/2016,security,NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+Ring partner bootstrap primer pump,Gingeropolous,ideas,2/22/2016,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Improving Developer Guides to include Simplewallet examples and Bitmonerod methods and examples,bigredmachine,completed,03/08/2016,documentation,NA,7,100,90,1.09,109,98.1,5,1,1
+Review and integration of offline transaction signing code into a future simplewallet release,ferretinjapan,ideas,3/10/2016,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Monero Usability Improvements - Beyond the GUI,Gingeropolous,ideas,3/23/2016,design,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Throwing it out there if Monero wants to be included as a Currency to the Travel services,Drachmae,ideas,4/5/2016,application,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Monero Supernode Funding - Brazil - 1 year, $110",Gingeropolous,ideas,6/14/2016,community,NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+0MQ by Tewinget,dEBRUYNE,work_in_progress,06/20/2016,core,NA,16,5000,5000,1.77,8850,8850,1,0,0
+Monero greek translations of website and ann thread,burzuks,ideas,7/2/2016,translation,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+Codify the FFS standard and improve end-user experience,anonimal,ideas,7/5/2016,documentation,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+Implement icon or user-doc re: RSS category/thread notification,anonimal,ideas,7/5/2016,feature,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+Fancy YouTube video for Monero exposure,sitefioan,ideas,7/14/2016,marketing,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+Create End-User Kovri documentation,anonimal,completed,7/15/2016,documentation,NA,15,114,100,1.99,226.86,199,5,2,2
+Create End-User Kovri documentation,anonimal,open_tasks,07/27/2016,documentation,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+Raise funds for NoodleDoodle to release the Trezor source code,saddam,ideas,8/14/2016,application,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Monero Lightwallet Fictive / Concept - WIP- FEEDBACK!,baltsar,ideas,8/18/2016,design,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Idea for simple wallet transfer function called with no argument.,anon136,ideas,8/21/2016,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Optional mixin range rather than specific value.,anon136,ideas,8/21/2016,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Create bounty for disproving ringCT, finding bugs, etc in Monero's code?",floam412,ideas,8/21/2016,security,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+Promotional Video: What is Monero,savandra,ideas,9/1/2016,marketing,NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+Zerocash Sidechain,sorceressofmathematics,ideas,9/12/2016,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Forum Funding System: change of policy,rocco,ideas,9/24/2016,feature,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+More mooo coding goodness,moneromooo,completed,10/08/2016,core,NA,27,1802,1800,6.93,12487.86,12474,10,10,10
+anonimal's Kovri Full Time Development funding thread,anonimal,work_in_progress,10/10/2016,core,NA,37,7246.58,7245,6.97,50508.6626,50497.65,81,11,16
+What is Monero? is produced and open-sourced,savandra,completed,10/12/2016,marketing,NA,2,72,72,7.21,519.12,519.12,3,1,1
+Monero Video Series,savandra,work_in_progress,10/19/2016,documentation,NA,26,912,912,6.73,6137.76,6137.76,16,6,6
+Multisig,TheKing01,ideas,10/23/2016,feature,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+fluffypony's Conference Circuit Jan 2017 Edition,fluffypony,completed,12/9/2016,conference,NA,1,851,590,7.91,6731.41,4666.9,27,0,0
+Creating a bounty for people to break XMR cryptography,xmr_eric,ideas,12/10/2016,security,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Open source Monero mobile wallet for Android and iOS,alexg,ideas,12/14/2016,application,NA,20,NA,NA,NA,NA,NA,NA,NA,NA
+Monero Hardware Wallet Support (Ledger Nano S or Official RingCT compatible Trezor),monerowallet,ideas,12/19/2016,application,NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+Pool software usability improvements,moneromooo,ideas,12/30/2016,feature,NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+Simple Wallet Input Control,b5wkrijkpo,ideas,1/2/2017,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Shen Noether: RingCT review, multisig design and implementation",fluffypony,work_in_progress,01/04/2017,core,NA,6,884.85,884.85,18.32,16210.452,16210.452,27,1,3
+promote monero in China,firperfect,ideas,1/6/2017,marketing,NA,8,NA,NA,NA,NA,NA,NA,NA,NA
+Proposal for Kovri Dev,guzzijones12,work_in_progress,01/14/2017,core,NA,30,125,120,11.08,1385,1329.6,11,3,3
+Update getmonero.org developer documentation,saddam,work_in_progress,01/26/2017,documentation,NA,5,18,13,11.91,214.38,154.83,3,0,1
+Coinomi Wallet integration,coinomi,ideas,1/26/2017,application,NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+Release of new/updated pool software,Snipa22,completed,02/02/2017,feature,NA,19,800,800,13.13,10504,10504,45,3,3
+Thinking about creating a testnet faucet,JukeboxRhino,ideas,02/05/2017,feature,NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+Monero Bounty for HackerOne,anonimal,funding_required,03/15/2017,security,NA,24,1286.95,1500,19.06,24529.267,28590,47,0,0
+Translation of the website to Spanish,EIC,ideas,3/19/2017,translation,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+Justin's Local Meetup Talks Proposal 1,samsunggalaxyplayer,completed,03/20/2017,conference,NA,8,66,66,22.3,1471.8,1471.8,18,1,1
+A decentralized mining pool client built into the core software,sorceressofmathematics,ideas,3/28/2017,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Get a massive Monero logo on a sail in the Bermuda One-Two yacht race,fluffypony,work_in_progress,03/29/2017,marketing,NA,6,180,180,20.87,3756.6,3756.6,27,0,1
+Minergate Alternative (GUI Miner),alibyte,ideas,3/31/2017,application,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+"Hire PhD mathematician to look into post-quantum crypto, ZK protocols, blockchain bloat.",suraeNoether,completed,04/18/2017,research,NA,34,1153.33,1050,21.94,25304.0602,23037,54,3,3
+"Promotion of Monero at the Local Community Level (Jacksonville, FL, United States)",freelanceparalegal,ideas,4/29/2017,marketing,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Monero integrations with web apps,serhack,completed,05/30/2017,application,NA,15,138.33,126,39.28,5433.6024,4949.28,18,2,2
+Monero Website Recopy/Rewrite Proposal,jamieson4399,ideas,6/4/2017,documentation,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+Funding for a Monero subforum on the largest chinese BTC forum 8BTC,firperfect,completed,06/06/2017,community,NA,9,610.75,570,55.6,33957.7,31692,15,0,0
+Mooo full time july-september,moneromooo,completed,06/14/2017,core,NA,26,579,462,45,26055,20790,36,3,3
+Port cryptonight miner for armv8,AnesHadzi,ideas,6/17/2017,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Justin's Local Meetup Talks Proposal 2,samsunggalaxyplayer,completed,06/28/2017,conference,NA,3,27.5,26,46.71,1284.525,1214.46,8,1,1
+Continued funding for postdoctoral researcher Surae Noether (me!),suraeNoether,work_in_progress,06/30/2017,research,NA,5,451.25,450,43.11,19453.3875,19399.5,35,3,3
+Hire mathematician (and computational physicist) to join research team,SarangNoether,completed,07/09/2017,research,NA,39,473.74,467,44.6,21128.804,20828.2,24,3,3
+Dutch translations for 3 projects,ProkhorZ,ideas,7/19/2017,translation,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+Smart contracts and DAO,psddp,ideas,7/27/2017,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Barolo for all the volunteers!,snirpie,ideas,7/28/2017,community,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+Should we start a Monero Marketing hub?,astro11,ideas,7/31/2017,marketing,NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+"MoneroMail, private messaging extension for Monero",riiume,ideas,8/11/2017,application,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Justin's Local Meetup Talks Proposal #3,samsunggalaxyplayer,work_in_progress,08/12/2017,conference,NA,5,24,23,49.45,1186.8,1137.35,8,1,1
+Development of a unique super-productive pool,romankosoj,open_tasks,08/14/2017,feature,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+Vespco's Monero Marketplace Idea,Vesp,work_in_progress,08/17/2017,application,NA,12,20.09,20,47.2,948.248,944,10,3,3
+Monero Tracking Challenge #2,riiume,funding_required,08/18/2017,research,NA,10,500.26,500,46.46,23242.0796,23230,9,0,0
+Dedicated Monero Hardware Wallet,michael,work_in_progress,08/19/2017,application,NA,78,997.53,996,55.63,55492.5939,55407.48,44,6,6
+Monero Firmware for Ledger Wallet,michael,open_tasks,08/20/2017,feature,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+Monero Related Articles In Trusted Editorial Publications - Payment Upon Completion,proxmr,ideas,8/20/2017,marketing,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Firmware for Dedicated HW Wallet,michael,open_tasks,08/21/2017,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Enclosure for Dedicated HW Wallet,michael,open_tasks,08/25/2017,feature,NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+Amazon Echo/Alexa Flash Briefing,drumduke,ideas,8/25/2017,community,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+XMR Lotto,xmrlotto,ideas,8/30/2017,community,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Mooo full time october-december,moneromooo,work_in_progress,09/01/2017,core,NA,9,171.01,168,143.04,24461.2704,24030.72,24,3,3
+Rust Monero Client,sorpaas,ideas,9/6/2017,feature,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+Monero Meetup Kit,samsunggalaxyplayer,completed,09/09/2017,community,NA,6,28,28,116,3248,3248,12,3,3
+Assistant for Kovri Project Management,rehrar,completed,09/12/2017,core,NA,13,50,49,111.21,5560.5,5449.29,16,4,4
+Monero Integrations Second FFS,serhack,work_in_progress,09/13/2017,application,NA,11,49,49,109.89,5384.61,5384.61,10,3,3
+HW Accelerated Blockchain Explorer,michael,ideas,9/16/2017,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Globee's Secret Project Fundraiser,fluffypony,work_in_progress,09/18/2017,application,NA,41,4865.8,4500,101.5,493878.7,456750,184,0,0
+Monero Observer - Weekly Recap For All Things Monero (Weekly Newsletter),monerooby_doo,work_in_progress,09/18/2017,community,NA,12,48.2,48,101.5,4892.3,4872,19,1,4
+Monero awareness in Nigeria and Africa,Abubakar_1,ideas,9/19/2017,marketing,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+"Monero community ""hedge fund""",zerocool,ideas,9/19/2017,community,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+Off Chain HW Bearer Bond Facilitator,michael,ideas,9/22/2017,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+HW Connected ATM Appliance,michael,ideas,9/23/2017,application,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+amiuhle part-time November & December (Kasisto development & Monero developer documentation),amiuhle,work_in_progress,09/27/2017,core,NA,10,63.05,60,102.5,6462.625,6150,18,0,0
+House Fund,yourstores,ideas,10/11/2017,application,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Funding for Sarang at MRL for Q1 2018,SarangNoether,completed,10/26/2017,research,NA,15,380,380,88.8,33744,33744,41,4,4
+Funding for Surae at MRL for Q1 2018,suraeNoether,work_in_progress,10/26/2017,research,NA,15,380.18,380,88.8,33759.984,33744,93,4,4
+"Task - Translations (Korean, Japanese, Russian)",jknpg,open_tasks,11/07/2017,translation,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+Coordinator for localization group + various maintenance,erciccione,work_in_progress,11/16/2017,translation,core,13,27.59,27,120.01,3311.0759,3240.27,10,3,3
+OpenBazaar NEEDS YOU!,littlebee,ideas,11/17/2017,application,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Hardware forum,None,ideas,11/17/2017,community,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+GUI redesign,dsc,work_in_progress,11/19/2017,design,NA,14,25.1,25,129.66,3254.466,3241.5,14,4,4
+Comprehensive Python module for handling Monero,emes,work_in_progress,11/23/2017,application,NA,11,25.12,25,159,3994.08,3975,9,1,1
+1 Million USD for EFF.org and Net Neutrality support,guzzijones12,ideas,11/26/2017,community,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Monero API idea,erto,ideas,11/27/2017,application,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+"Purchase MONERO.HOW, keep it running, and open source it.",apecks,ideas,11/29/2017,community,NA,6,NA,NA,NA,NA,NA,NA,NA,NA
+"moneromooo full time coding, january-march",moneromooo,work_in_progress,12/05/2017,core,NA,13,101,101,247.48,24995.48,24995.48,67,3,3
+Clothing line,Jmf123,ideas,12/11/2017,community,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+I'm creating a multi-market Monero exchange manager. Here's a quick look at it.,xsp_xmr,ideas,12/12/2017,application,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Persian (Farsi) Transaltion,xmrlover,ideas,12/21/2017,translation,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Getmonero.org Redesign,rehrar,completed,12/24/2017,design,NA,11,107,100,326,34882,32600,9,4,4
+Guess the 777 USD Date in 2018,IntroVert_Redux,ideas,12/27/2017,community,NA,21,NA,NA,NA,NA,NA,NA,NA,NA
+rehrar's 2018 Q1 Kovri proposal,rehrar,work_in_progress,01/02/2018,core,NA,8,24.68,24,364.17,8987.7156,8740.08,22,2,3
+Funding for Noether brothers to attend Stanford BPASE18 conference,SarangNoether,work_in_progress,01/05/2018,conference,NA,12,15.32,15,356.96,5468.6272,5354.4,18,3,3
+******Wrap My xB During USA Tour - Positive Publicity for Monero*******,samtb13,ideas,1/5/2018,marketing,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+A fantasy cricket game app that uses Monero for transactions.,superrnus,ideas,1/16/2018,application,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+I'd Like to Develop a New Webcomic Series Starring MoneroCat and the Justice League of Crypto,cryptopop,ideas,1/16/2018,community,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+Mastering Monero FFS,serhack,work_in_progress,1/20/2018,documentation,NA,15,40,40,383.99,15359.6,15359.6,11,0,0
+Funding request: add GPU OpenCL support to Monero solo mining,wqking,open_tasks,02/08/2018,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Proposal? A New Kind of Paper Wallet.,cartyisme,ideas,2/9/2018,community,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+NFC hard wallet,JasonChu,ideas,2/10/2018,feature,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+A native ruby implementation of the Monero wallet,moneroplace,ideas,2/12/2018,feature,NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+Bulletproofs audit,SarangNoether,open_tasks,03/01/2018,security,NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+Lunlumo: Cold Signing automation via QR code + full GUI + python CLI wrapper library,NASA_Welder,open_tasks,03/03/2018,feature,NA,7,NA,NA,NA,NA,NA,NA,NA,NA
+Monero Localizations Coordinator (2nd FFS),erciccione,work_in_progress,03/04/2018,translation,NA,12,27,27,369.36,9972.72,9972.72,16,3,3
+"Moar mooo coding, april-june",moneromooo,work_in_progress,03/04/2018,core,NA,13,112,112,369.36,41368.32,41368.32,47,2,3
+Bulletproofs audit: fundraising,SarangNoether,work_in_progress,03/05/2018,security,NA,10,497.59,457,371.1,184655.649,169592.7,161,0,3
+Monero Fiat Exchange for South Africa (Like Luno.com),Go0se88,ideas,3/5/2018,application,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Sarang: funding for April/May 2018,SarangNoether,work_in_progress,03/08/2018,research,NA,6,67,67,276.5,18525.5,18525.5,19,2,2
+m2049r: Part-Time for 3 months,m2049r,work_in_progress,03/10/2018,core,NA,12,43.1,42,254.38,10963.778,10683.96,17,3,3
+Funding for Surae at MRL Q2 2018,suraeNoether,work_in_progress,3/13/2018,research,NA,6,63,63,247.54,15595.02,15595.02,29,2,2
+Advancing Monero Hardware Wallet,michael,work_in_progress,03/23/2018,application,NA,16,498.1,498,214.93,107056.633,107035.14,44,0,0
+Noether brothers: IEEE workshop,SarangNoether,work_in_progress,04/04/2018,conference,NA,11,22,22,167.78,3691.16,3691.16,12,0,2
+Adaptable Monero ASIC,yulistr,ideas,4/5/2018,feature,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+More GUI coding,dsc,work_in_progress,04/09/2018,core,NA,9,32,32,165.85,5307.2,5307.2,23,1,2
+Create a Zeronet Monero community,1ncehost,ideas,4/9/2018,community,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+"Owlstand, an online art platform AND Monero payment",owlstand,ideas,4/15/2018,application,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Make Monero Fork-proof,itsMyData,ideas,4/18/2018,research,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+el00ruobuob: Part time for 3 month,el_ruobuob,work_in_progress,04/29/2018,core,NA,14,6,6,255.7,1534.2,1534.2,2,3,3
+"Monero Red Teaming (Fuzzing, Other cool stuff)",glitchdigger,ideas,5/3/2018,security,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+FastTech.com Now Accepts XMR as Payment,harryft,ideas,5/3/2018,application,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+"Change official Monero sign from ""ɱ"" to ""₥""",kleyoni24,ideas,5/23/2018,documentation,NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+MONERO Mobile Wallet (light wallet for Desktop),cryptofoundry,ideas,5/27/2018,application,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+Coordinator of the Localization Workgroup. 3 more months - ErCiccione,erciccione,work_in_progress,05/30/2018,translation,NA,17,49.25,45,154.1,7589.425,6934.5,26,0,3
+m2049r: Part-Time June-August,m2049r,work_in_progress,05/30/2018,core,NA,7,54,54,154.1,8321.4,8321.4,17,1,3
+More mooo Monero coding - july-september,moneromooo,work_in_progress,06/01/2018,core,NA,8,151.02,151,157.06,23719.2012,23716.06,40,0,3
+Python C++ Bindings,ehanoc,ideas,6/6/2018,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Monero JVM Utils and Alternative Desktop Wallet,svega,ideas,6/6/2018,application,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+oneiric: June-August part-time Kovri junior developer,oneiric,work_in_progress,06/07/2018,core,NA,9,27.01,27,163.47,4415.3247,4413.69,21,0,0
+Android App development,depprussell,ideas,6/8/2018,application,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+el00ruobuob: Part Time for Another Quarter (Jully-September),el_ruobuob,work_in_progress,06/11/2018,core,NA,4,15.05,15,137.71,2072.5355,2065.65,7,0,3
+BackPage 2 Uses Exclusively Monero...,BlackBackPage2,ideas,6/12/2018,application,NA,1,NA,NA,NA,NA,NA,NA,NA,NA
+Rough Draft: FFS for Annularis Project -- Thoughts & Feedback strongly desired before we proceed.,Vesp,open_tasks,06/13/2018,application,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+3b7ameed : Arabic Translation,3b7ameed,ideas,6/13/2018,translation,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Defcon Speaker FFS,rehrar,work_in_progress,06/16/2018,conference,NA,3,67.31,67,126.53,8516.7343,8477.51,7,0,0
+3b7ameed : Arabic Translation,3b7ameed,work_in_progress,06/17/2018,translation,NA,2,8.05,8,123.29,992.4845,986.32,7,1,1
+Help with Monero lightning development,frendlysnek,ideas,6/25/2018,feature,NA,4,NA,NA,NA,NA,NA,NA,NA,NA
+Monero Outreach FFS Proposal: July-October 2018,xmrhaelan,work_in_progress,06/27/2018,marketing,NA,8,47.73,47,128.59,6137.6007,6043.73,18,0,3
+Sarang: funding for July-September 2018,SarangNoether,work_in_progress,06/27/2018,research,NA,7,135,135,128.59,17359.65,17359.65,32,0,3
+"Dutch translations: Kovri docs, Monerujo and the Monero website",ProkhorZ,ideas,7/4/2018,translation,NA,3,NA,NA,NA,NA,NA,NA,NA,NA
+Wallet Network / CPU Performance Optimization,dn16dgcx1vbnaez13fg,ideas,7/14/2018,core,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
+Ledger Support for Monerujo,m2049r,ideas,7/15/2018,application,NA,5,NA,NA,NA,NA,NA,NA,NA,NA
+"All monero public discussions should be in the same place, or in places that are searchable.",demo,ideas,7/16/2018,community,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+Monero Defcon 26 Supplies,ajs,funding_required,07/18/2018,conference,NA,4,8.58,17,139.55,1197.339,2372.35,4,0,1
+Monerujo and Getkovri Arabic Translation,3b7ameed,ideas,7/19/2018,translation,NA,2,NA,NA,NA,NA,NA,NA,NA,NA
+Dedicated (minimal) monerod hardware,littleblackfish,ideas,7/21/2018,feature,NA,0,NA,NA,NA,NA,NA,NA,NA,NA
